@@ -1,3 +1,11 @@
+## Tabla de Contenido
+
+- [Complexity](#complexity)
+- [Sort/Search](#sortsearch)
+- [Dynamic programming (Memoization and Tabulation)](#dynamic-programming-memoization-and-tabulation)
+- [Graphs Algorithms](#graphs-algorithms)
+
+
 # Complexity
 Complejidad espacial: Cantidad de memoria requerida (suma total del espacio que ocupan las variables) por un algoritmo antes, durante y después de su ejecución.
 
